@@ -135,3 +135,8 @@ p {
     background-position: 0 50%;
   }
 }
+
+.parent-container {
+  display: flex;
+  justify-content: center; /* Căn giữa theo chiều ngang */
+}
