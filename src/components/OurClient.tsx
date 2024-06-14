@@ -33,28 +33,28 @@ const OurClient = () => {
         </div>
         <div className="logo-brand flex justify-around gap-8 absolute items-center right-32">
           <img
-            src="../../public/img/Google Logo.svg"
+            src="/img/Google Logo.svg"
             alt=""
             className="w-[120px]"
             data-aos="fade-up"
             data-aos-delay="200"
           />
           <img
-            src="../../public/img/Vector.svg"
+            src="/img/Vector.svg"
             alt=""
             className="w-[120px]"
             data-aos="fade-up"
             data-aos-delay="300"
           />
           <img
-            src="../../public/img/Panasonic_logo_(Blue).svg.png"
+            src="/img/Panasonic_logo_(Blue).svg.png"
             alt=""
             className="w-[140px]"
             data-aos="fade-up"
             data-aos-delay="400"
           />
           <img
-            src="../../public/img//viettel logo.png"
+            src="/img//viettel logo.png"
             alt=""
             className="w-[110px] h-fit"
             data-aos="fade-up"

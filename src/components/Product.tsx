@@ -17,7 +17,7 @@ const Product = () => {
     <Fragment>
       <div className="m-10 relative flex items-center justify-between ">
         <img
-          src="../../public/img/Rectangle 25.png"
+          src="/img/Rectangle 25.png"
           className="absolute z-[-1] w-[120px] translate-x-[-25px] top-[250px]"
           alt=""
           data-aos="fade-up"
@@ -25,7 +25,7 @@ const Product = () => {
           data-aos-delay="100"
         />
         <img
-          src="../../public/img/dot 4.png"
+          src="/img/dot 4.png"
           className="absolute z-[-1] w-[250px] bottom-[50px] left-[140px]"
           alt=""
         />
@@ -49,7 +49,7 @@ const Product = () => {
           </p>
         </div>
         <img
-          src="../../public/img/Rectangle 24.png"
+          src="/img/Rectangle 24.png"
           className="absolute z-[-1] w-[850px] right-0"
           alt=""
           data-aos="fade-up"
@@ -65,7 +65,7 @@ const Product = () => {
               data-aos-delay="100"
             >
               <img
-                src="../../public/img/box-search 1.svg"
+                src="/img/box-search 1.svg"
                 alt=""
                 className="logo logo-bussiness"
               />
@@ -83,7 +83,7 @@ const Product = () => {
               data-aos-delay="300"
             >
               <img
-                src="../../public/img/code-1 1.svg"
+                src="/img/code-1 1.svg"
                 alt=""
                 className="logo logo-graphic"
               />
@@ -102,7 +102,7 @@ const Product = () => {
               data-aos-delay="200"
             >
               <img
-                src="../../public/img/empty-wallet 1.svg"
+                src="/img/empty-wallet 1.svg"
                 alt=""
                 className="logo logo-financial"
               />
@@ -119,7 +119,7 @@ const Product = () => {
               data-aos-delay="400"
             >
               <img
-                src="../../public/img/chart-square 1.svg"
+                src="/img/chart-square 1.svg"
                 alt=""
                 className="logo logo-trend"
               />
@@ -132,7 +132,7 @@ const Product = () => {
           </div>
         </div>
         <img
-          src="../../public/img/Ellipse 87.png"
+          src="/img/Ellipse 87.png"
           className="absolute bottom-0 w-[100px] right-[170px] z-[-2]"
           alt=""
           data-aos="fade-up"

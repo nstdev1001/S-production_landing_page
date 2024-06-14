@@ -18,12 +18,12 @@ const Subscribe = () => {
     <Fragment>
       <div className="subscribe flex justify-between items-center relative mt-16">
         <img
-          src="../../public/img/Rectangle 225.png"
+          src="/img/Rectangle 225.png"
           className="absolute bottom-0 left-0 translate-x-[-30px] translate-y-[30px] z-[-1]"
           alt=""
         />
         <img
-          src="../../public/img/dot 3.png"
+          src="/img/dot 3.png"
           className="absolute top-0 right-0 z-[-1] translate-x-[30px] translate-y-[-30px]"
           alt=""
         />
@@ -67,7 +67,7 @@ const Subscribe = () => {
               Connnet Now
             </Button>
           </div>
-          <img src="../../public/img/Rectangle 31.png" alt="" />
+          <img src="/img/Rectangle 31.png" alt="" />
         </div>
       </div>
     </Fragment>

@@ -57,7 +57,7 @@ const Hero = () => {
           </a>
 
           <img
-            src="../../public/img/dots.png"
+            src="/img/dots.png"
             alt=""
             className="w-[300px] absolute z-0 top-[250px] left-[-35px]"
           />
@@ -69,17 +69,17 @@ const Hero = () => {
           className="hero-img absolute right-0 w-[700px] col-lg-6 col-md-12 col-sm-12"
         >
           <img
-            src="../../public/img/Ellipse 85.png"
+            src="/img/Ellipse 85.png"
             alt=""
             className="z-0 translate-x-[-50%] translate-y-5"
           />
           <img
-            src="../../public/img/image 8.jpg"
+            src="/img/image 8.jpg"
             alt=""
             className="right-0 translate-y-[-27%]"
           />
           <img
-            src="../../public/img/Rectangle 25.png"
+            src="/img/Rectangle 25.png"
             alt=""
             className="rotate-180 right-[100px] absolute bottom-10 z-[-1]"
           />

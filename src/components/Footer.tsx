@@ -14,7 +14,7 @@ const Footer = () => {
     <Fragment>
       <div className="footer mt-32 border-t-2 pt-5 row relative">
         <div className="A-studio col-md-4 col-12">
-          <img src="../../public/img/A+ Studio.svg" alt="" />
+          <img src="/img/A+ Studio.svg" alt="" />
           <p className="w-[250px] mt-7">
             We were born to provide you with Media products in a different way:
             Creative - Quintessential - Unique. We produce corporate films,
@@ -75,27 +75,15 @@ const Footer = () => {
         <div className="flex gap-3 mt-4">
           <a href="">
             {" "}
-            <img
-              src="../../public/img/facebook.svg"
-              className="inline-block"
-              alt=""
-            />
+            <img src="/img/facebook.svg" className="inline-block" alt="" />
           </a>
           <a href="">
             {" "}
-            <img
-              src="../../public/img/twitter.svg"
-              className="inline-block"
-              alt=""
-            />
+            <img src="/img/twitter.svg" className="inline-block" alt="" />
           </a>
           <a href="">
             {" "}
-            <img
-              src="../../public/img/linkedin.svg"
-              className="inline-block"
-              alt=""
-            />
+            <img src="/img/linkedin.svg" className="inline-block" alt="" />
           </a>
         </div>
         <Button

@@ -31,21 +31,21 @@ export const ClientSay = () => {
         <div className="flex justify-between items-center">
           <div className="img-wrapper relative">
             <img
-              src="../../public/img/dots 2.png"
+              src="/img/dots 2.png"
               className="absolute z-[-1] w-[150px] right-5"
               alt=""
               data-aos="fade-up"
               data-aos-delay="200"
             />
             <img
-              src="../../public/img/avatar.png"
+              src="/img/avatar.png"
               alt=""
               className="main-avatar "
               data-aos="fade-up"
               data-aos-delay="250"
             />
             <img
-              src="../../public/img/Ellipse 87.png"
+              src="/img/Ellipse 87.png"
               className="absolute bottom-10 left-10 w-[100px] z-[-1]"
               alt=""
               data-aos="fade-up"
@@ -72,63 +72,63 @@ export const ClientSay = () => {
 
           <div className="more-avatar relative w-[400px] h-[400px] ">
             <img
-              src="../../public/img/Ellipse 93.png"
+              src="/img/Ellipse 93.png"
               className="absolute top-28 left-10 w-[160px] avt-client"
               alt=""
               data-aos="flip-left"
               data-aos-delay="100"
             />
             <img
-              src="../../public/img/small avt/1.png"
+              src="/img/small avt/1.png"
               className="absolute top-16 left-1 avt-client"
               alt=""
               data-aos="zoom-in"
               data-aos-delay="100"
             />
             <img
-              src="../../public/img/small avt/2.png"
+              src="/img/small avt/2.png"
               className="absolute top-0 left-32 avt-client"
               alt=""
               data-aos="zoom-in"
               data-aos-delay="110"
             />
             <img
-              src="../../public/img/small avt/3.png"
+              src="/img/small avt/3.png"
               className="absolute top-16 right-28 avt-client"
               alt=""
               data-aos="zoom-in"
               data-aos-delay="120"
             />
             <img
-              src="../../public/img/small avt/4.png"
+              src="/img/small avt/4.png"
               className="absolute top-36 right-16 avt-client"
               alt=""
               data-aos="zoom-in"
               data-aos-delay="130"
             />
             <img
-              src="../../public/img/small avt/5.png"
+              src="/img/small avt/5.png"
               className="absolute bottom-28 right-28 avt-client"
               alt=""
               data-aos="zoom-in"
               data-aos-delay="140"
             />
             <img
-              src="../../public/img/small avt/6.png"
+              src="/img/small avt/6.png"
               className="absolute bottom-14 left-24 avt-client"
               alt=""
               data-aos="zoom-in"
               data-aos-delay="150"
             />
             <img
-              src="../../public/img/small avt/7.png"
+              src="/img/small avt/7.png"
               className="absolute bottom-36 left-7 avt-client"
               alt=""
               data-aos="zoom-in"
               data-aos-delay="160"
             />
             <img
-              src="../../public/img/small avt/8.png"
+              src="/img/small avt/8.png"
               className=" absolute top-24 left-28 avt-client"
               alt=""
               data-aos="zoom-in"

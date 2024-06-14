@@ -44,14 +44,14 @@ const Business = () => {
           ></iframe>
 
           <img
-            src="../../public/img/Ellipse 86.png"
+            src="img/Ellipse 86.png"
             className="absolute bottom-0 translate-x-10 translate-y-10 right-0 z-[-1]"
             alt=""
           />
         </div>
         <div className="text relative p-10">
           <img
-            src="../../public/img/Rectangle 26.png"
+            src="/img/Rectangle 26.png"
             className="absolute z-[-1] w-[120px] top-6 translate-x-[-20px]"
             alt=""
             data-aos="fade-up"
