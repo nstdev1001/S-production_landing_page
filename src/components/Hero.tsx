@@ -16,7 +16,7 @@ const Hero = () => {
   }, []);
   return (
     <Fragment>
-      <div className="hero flex relative m-10 mt-10 row">
+      <div className="hero flex relative m-10 mt-0 pt-28 row">
         <div
           className="text mt-20 col-lg-6 col-md-12 col-sm-12"
           data-aos="fade-up"
