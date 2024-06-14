@@ -1,5 +1,6 @@
 import { Button } from "@mui/material";
 import { Fragment } from "react/jsx-runtime";
+import logo from "/img/A+ Studio.svg";
 
 const Footer = () => {
   const scrollToTop = () => {
@@ -14,7 +15,7 @@ const Footer = () => {
     <Fragment>
       <div className="footer mt-32 border-t-2 pt-5 row relative">
         <div className="A-studio col-md-4 col-12">
-          <img src="img/A+ Studio.svg" alt="" />
+          <img src={logo} alt="" />
           <p className="w-[250px] mt-7">
             We were born to provide you with Media products in a different way:
             Creative - Quintessential - Unique. We produce corporate films,
